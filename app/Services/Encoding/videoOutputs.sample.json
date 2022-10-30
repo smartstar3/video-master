@@ -1,0 +1,127 @@
+[
+  {
+    "label": "mp4 placeholders",
+    "h264_profile": "high",
+    "format": "mp4",
+    "size": "1280x720",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "thumbnails": {
+      "label": "placeholder high",
+      "number": 16,
+      "base_url": "s3:\/\/ma-previews\/",
+      "public": 1,
+      "format": "jpg",
+      "size": "1280x720",
+      "headers": {
+        "Cache-Control": "public, max-age=31104000",
+        "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+      },
+      "prefix": "preview-37993A0Azej29yR"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR-placeholders.mp4"
+  },
+  {
+    "label": "mp4 placeholders low",
+    "h264_profile": "high",
+    "format": "mp4",
+    "size": "640x360",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "thumbnails": {
+      "label": "placeholder low",
+      "number": 16,
+      "base_url": "s3:\/\/ma-previews\/",
+      "public": 1,
+      "format": "jpg",
+      "size": "640x360",
+      "headers": {
+        "Cache-Control": "public, max-age=31104000",
+        "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+      },
+      "prefix": "preview-37993A0Azej29yR-low"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR-placeholders-low.mp4"
+  },
+  {
+    "label": "mp4 high",
+    "h264_profile": "high",
+    "format": "mp4",
+    "size": "1280x720",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR.mp4"
+  },
+  {
+    "label": "webm high",
+    "format": "webm",
+    "size": "1280x720",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR.webm"
+  },
+  {
+    "label": "ogg high",
+    "format": "ogv",
+    "size": "1280x720",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR.ogv"
+  },
+  {
+    "label": "mp4 low",
+    "format": "mp4",
+    "size": "640x360",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR-low.mp4"
+  },
+  {
+    "label": "webm low",
+    "format": "webm",
+    "size": "640x360",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR-low.webm"
+  },
+  {
+    "label": "ogg low",
+    "format": "ogv",
+    "size": "640x360",
+    "aspect_mode": "crop",
+    "public": 1,
+    "headers": {
+      "Cache-Control": "public, max-age=31104000",
+      "Expires": "Mon, 25 Jun 2018 14:56:17 +0000"
+    },
+    "url": "s3:\/\/ma-previews\/preview-37993A0Azej29yR-low.ogv"
+  }
+]
